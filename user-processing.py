@@ -8,7 +8,6 @@
 
 def main():
 
-
     userFile = open("user-list.txt", "r")
 
     #load the lines of the file into a list
